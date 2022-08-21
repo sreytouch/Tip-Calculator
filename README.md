@@ -1,5 +1,5 @@
 # Tip-Calculator
-Time spent: 50 hours spent in total
+Time spent: 24 hours spent in total
 
 ## User Stories
 
