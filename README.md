@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://camo.githubusercontent.com/6bd4400e302e8cf8dc5dd480f67d1602fcddfc8fa80e9357897d42f0dde8d628/687474703a2f2f672e7265636f726469742e636f2f77564e624532534845702e676966
+img src='http://g.recordit.co/wVNbE2SHEp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
